@@ -1,0 +1,14 @@
+int main(){
+
+	int a;
+	int b;
+	int sonuc;
+
+	printf("İki adet sayi giriniz :");
+	scanf("%d%d",&a,&b);
+
+	sonuc = a + b;
+	
+	printf("İki sayının toplamı : %d",sonuc);
+
+}
