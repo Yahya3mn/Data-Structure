@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1699187884 source:c:\users\yahya\documents\github\data-structure\palindrome_stack&&queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+

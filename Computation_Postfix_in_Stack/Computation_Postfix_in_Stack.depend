@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699175619 source:c:\users\yahya\documents\github\data-structure\computation_postfix_in_stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

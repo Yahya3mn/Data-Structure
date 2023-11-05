@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1699183957 source:c:\users\yahya\documents\github\data-structure\queue_linkedlist_implementation\main.c
+	<stdio.h>
+	<stdlib.h>
+
