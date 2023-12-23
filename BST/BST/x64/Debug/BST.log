@@ -1,0 +1,7 @@
+﻿  Insert_a_Node_Into_BST.cpp
+  Level order traversal.cpp
+  Kod Üretiliyor...
+Level order traversal.obj : error LNK2005: "struct node * __cdecl insert(struct node *,int)" (?insert@@YAPEAUnode@@PEAU1@H@Z) zaten Insert_a_Node_Into_BST.obj üzerinde tanımlandı
+Level order traversal.obj : error LNK2005: "struct node * __cdecl newNode(int)" (?newNode@@YAPEAUnode@@H@Z) zaten Insert_a_Node_Into_BST.obj üzerinde tanımlandı
+Level order traversal.obj : error LNK2005: main zaten Insert_a_Node_Into_BST.obj üzerinde tanımlandı
+C:\Users\yahya\Documents\GitHub\Data-Structure\BST\x64\Debug\BST.exe : fatal error LNK1169: Bir veya daha fazla birden çok kez tanımlanmış sembol bulundu
